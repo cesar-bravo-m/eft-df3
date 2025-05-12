@@ -1,0 +1,6 @@
+projectKey=df3-eft-bbs
+serverUrl=http://localhost:9000
+serverVersion=25.3.0.104237
+dashboardUrl=http://localhost:9000/dashboard?id=df3-eft-bbs
+ceTaskId=fd143550-8aaf-4a85-a1bf-4da68b341ae6
+ceTaskUrl=http://localhost:9000/api/ce/task?id=fd143550-8aaf-4a85-a1bf-4da68b341ae6
