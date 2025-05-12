@@ -1,5 +1,5 @@
 export const environment = {
   production: false,
-  authApiUrl: 'http://localhost:8081',
-  bbsApiUrl: 'http://localhost:8080'
+  authApiUrl: 'http://20.246.104.28:8081',
+  bbsApiUrl: 'http://20.246.104.28:8080'
 };
