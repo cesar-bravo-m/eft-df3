@@ -1,5 +1,7 @@
 # Arquitectura del Proyecto
 
+# VM: [http://20.246.104.28](http://20.246.104.28)
+
 ## Tecnologías
 - Auth y BBS: Spring Boot **(creado mediante arquetipos)**
 - Frontend: Angular
